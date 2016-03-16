@@ -1,0 +1,13 @@
+{
+  "name": "gagagaga",
+  "main": "gagagaga.js",
+  "version": "0.0.0",
+  "description": "Make you dive into a battlefield.",
+  "repository": "https://github.com/Yuhsak/gagagaga",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
